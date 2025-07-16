@@ -1,0 +1,6 @@
+jax
+flax
+torch
+pytorch-lightning
+wandb
+pyyaml

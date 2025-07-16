@@ -1,0 +1,9 @@
+wandb_project: ground-floor-ml
+model:
+  input_dim: 10
+data:
+  size: 100
+training:
+  batch_size: 16
+  lr: 0.001
+  epochs: 5
